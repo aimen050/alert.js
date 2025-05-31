@@ -1,1 +1,1 @@
-<?php phpinfo(); ?>
+<script>alert(xss)</script>
